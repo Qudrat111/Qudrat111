@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Qudrat111
 - 👀 I’m interested in solving problems and algorithms
-- 🌱 I’m currently learning java language and studying at the university which is specialized to IT
+- 🌱 I’m currently making great projects with java  and studying at the university which is specialized to IT
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
